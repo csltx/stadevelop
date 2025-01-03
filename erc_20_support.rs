@@ -1,1 +1,2 @@
 // Analytics file created on 2025-01-02
+// Optimize storage for off-chain data
